@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 571 hello
-chmod o=wx hello
+chmod 571 hello chmod o=wx hello
